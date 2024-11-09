@@ -22,7 +22,7 @@
 
 ### 1. کلون کردن پروژه
 ```bash
-git clone https://github.com/YOUR_USERNAME/health-info-bot.git
+git clone https://github.com/isPoori/health-info-bot.git
 cd health-info-bot
 ```
 
