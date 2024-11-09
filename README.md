@@ -22,8 +22,8 @@
 
 ### 1. کلون کردن پروژه
 ```bash
-git clone https://github.com/YOUR_USERNAME/telegram_disease_bot.git
-cd telegram_disease_bot
+git clone https://github.com/YOUR_USERNAME/health-info-bot.git
+cd health-info-bot
 ```
 
 ### 2. نصب وابستگی‌ها
@@ -35,13 +35,13 @@ pip install python-telegram-bot
 
 ### 3. تنظیمات اولیه
 توکن ربات و آی‌دی ادمین را به‌روزرسانی کنید:
-- در فایل `bot.py`، مقدار `TOKEN` را با توکن ربات و `ADMIN_ID` را با آی‌دی عددی ادمین جایگزین کنید.
+- در فایل `main.py`، مقدار `TOKEN` را با توکن ربات و `ADMIN_ID` را با آی‌دی عددی ادمین جایگزین کنید.
 
 ### 4. اجرای ربات
 پس از تنظیمات بالا، می‌توانید ربات را اجرا کنید:
 
 ```bash
-python bot.py
+python3 main.py
 ```
 
 ## فایل دیتابیس
